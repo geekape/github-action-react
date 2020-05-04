@@ -2,6 +2,7 @@
   "name": "github-action-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://geekape.github.io/github-action-react",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -31,5 +32,4 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://geekape.github.io/github-action-react"
 }
